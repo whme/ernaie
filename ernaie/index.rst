@@ -1,17 +1,17 @@
-Index of `ernaie`_ language documentation
+Index of `ernaië`_ language documentation
 
-ernaie
+ernaië
 ======
 
-`ernaie`, literally `er`(the) `naie`(language), is the language of the Telperi.
-The following is the only official dictionary in english language for `ernaie`.
+`ernaië`, literally `er`(the) `naie`(language), is the language of the Telperi.
+The following is the only official dictionary in english language for `ernaië`.
 
 General
 -------
 
-This dictionary depicts `ernaie` using the common alphabet for lack of an alternative.
-`ernaie` is a spoken, not a written language, thus the Telperi see no need
-in providing writable characters. The only written sources of `ernaie` have
+This dictionary depicts `ernaië` using the common alphabet for lack of an alternative.
+`ernaië` is a spoken, not a written language, thus the Telperi see no need
+in providing writable characters. The only written sources of `ernaië` have
 been made by outsiders, who wrote down what the Telperi told them. In order
 to make the Telperi sayings accessible to as many readers as possible,
 the authors of those texts used the character of the common alphabet.
@@ -36,7 +36,7 @@ the ending `~in` is appended to evey verb in the setence.
 Article
 +++++++
 
-In `ernaie` the only article is `er`. It is the equivalent of
+In `ernaië` the only article is `er`. It is the equivalent of
 the word `the` in common.
 
 Singular/Plural
@@ -55,35 +55,28 @@ Negation
 ++++++++
 
 To negate a setence or a word the word `do` is added either at the begining
-or at the end of the setence/word. Thus "I don't speak any language" becomes
-"Do se nai naie". However "Se nai naie do" and "Se nai do naie" are also valid
+or at the end of the setence/word. Thus "I don't speak many languages" becomes
+"Do se nai naier". However "Se nai naier do" and "Se nai do naier" are also valid
 forms.
 
 Numbers
 +++++++
 
 The Telperi use the decimal system.
-0   do
-1   ei
-2   bei
-3   sei
-4   dei
-5   nei
-6   auei
-7   ouei
-8   euei
-9   uiei
+0   do  
+1   ei  
+2   bei  
+3   sei  
+4   dei  
+5   nei  
+6   auei  
+7   ouei  
+8   euei  
+9   uiei  
 
-1x      ~n
-1xx     ~a
-1xxx    ~r
-1xxxx   ~e
+1x      ~n  
+1xx     ~a  
+1xxx    ~r  
+1xxxx   ~e  
 
 Thus "12" would be "ein bei" and "3024" "seir bein dei".
-
-
-The name Telperion can be interpreted as
-"Te elpe er ion" which would literally translate to "You, the big tree".
-The term Telperi designates those who serve Telperion and live by his way.
-It formed from the expression "Te eren elpe er ion, na erenin ista er ioni",
-which roughly translates to "You are the big tree, we will be the small trees".

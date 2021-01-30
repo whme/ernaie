@@ -15,7 +15,7 @@ endef
 # Variables
 # ---------
 
-PROJECT := ernaie
+PROJECT := ernaië
 
 # -------
 # Targets

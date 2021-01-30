@@ -4,7 +4,7 @@ from setuptools impor setup, find_packages
 if __name__ == "__main__":
 
     setup(
-        name="ernaie",
+        name="ernaië",
         version="0.0.1a0",
         author="whme",
         author_email="whme@bashless.de",
