@@ -63,6 +63,7 @@ Numbers
 +++++++
 
 The Telperi use the decimal system.
+
 | 0   do
 | 1   ei
 | 2   bei
