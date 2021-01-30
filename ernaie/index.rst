@@ -75,6 +75,7 @@ The Telperi use the decimal system.
 | 8   euei
 | 9   uiei
 
+
 | 1x      ~n
 | 1xx     ~a
 | 1xxx    ~r
