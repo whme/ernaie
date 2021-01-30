@@ -63,20 +63,20 @@ Numbers
 +++++++
 
 The Telperi use the decimal system.
-0   do  
-1   ei  
-2   bei  
-3   sei  
-4   dei  
-5   nei  
-6   auei  
-7   ouei  
-8   euei  
-9   uiei  
+|0   do
+|1   ei
+|2   bei
+|3   sei
+|4   dei
+|5   nei
+|6   auei
+|7   ouei
+|8   euei
+|9   uiei
 
-1x      ~n  
-1xx     ~a  
-1xxx    ~r  
-1xxxx   ~e  
+|1x      ~n
+|1xx     ~a
+|1xxx    ~r
+|1xxxx   ~e
 
 Thus "12" would be "ein bei" and "3024" "seir bein dei".
