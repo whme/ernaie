@@ -16,22 +16,27 @@ been made by outsiders, who wrote down what the Telperi told them. In order
 to make the Telperi sayings accessible to as many readers as possible,
 the authors of those texts used the character of the common alphabet.
 
-Time
-++++
+Pronouns
+++++++++
 
-The Telperi differenciate only between three times:
-the past, the present and the future.
-To describe events that occured in the past,
-the ending `~an` is appended to every verb in the setence.
-To describe events that occure in the present,
-the ending of the verbs stays unchanged.
-"Gowa" translates to "now".
-To describe events that will occure in the future,
-the ending `~in` is appended to evey verb in the setence.
-"Se eren" which translates to "I am" thus becomes
-"Se erenan", "I was" and "Se erenin", "I will be".
-"Gowa`an" means "Yesterday" or "In the past" and
-"Gowain" means "Tomorrow" or "In the future".
+| Se    I
+| Te    You
+| E     He/She/It
+| Na    We
+| I     You/They
+| E     You
+
+Verbs
++++++
+
+In `ernaië` verbs are not conjugated with pronouns. They are only
+conjugated with time.
+
+Modal verbs
+^^^^^^^^^^^
+
+| Nur   (to) have
+| Eren  (to) be
 
 Article
 +++++++
@@ -81,4 +86,23 @@ The Telperi use the decimal system.
 | 1xxx    ~r
 | 1xxxx   ~e
 
-Thus "12" would be "ein bei" and "3024" "seir bein dei".
+Thus "12" would be "ein-bei" and "3024" "seir-bein-dei".
+
+Time
+++++
+
+The Telperi differenciate only between three times:
+the past, the present and the future.
+To describe events that occured in the past,
+the ending `~an` is appended to every verb in the setence.
+To describe events that occure in the present,
+the ending of the verbs stays unchanged.
+"Gowa" translates to "now".
+To describe events that will occure in the future,
+the ending `~in` is appended to evey verb in the setence.
+"Se eren" which translates to "I am" thus becomes
+"Se erenan", "I was" and "Se erenin", "I will be".
+"Gowa`an" means "Yesterday" or "In the past" and
+"Gowain" means "Tomorrow" or "In the future".
+These however are an exception, as normally only
+verbs are to be suffix with a time indication.

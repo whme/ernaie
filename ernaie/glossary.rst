@@ -11,6 +11,13 @@ to "Stories of time". This collection of legends and myths is passed on
 within the order of Telperi for centuries. Many of its stories tell from
 the adventures and discoveries of `Theliphé Merällìen`.
 
+Merelponi
+---------
+
+A contraction used to designate the homeland of the Laùrelîn on the
+material plane. The name most likely orignates from the sentence
+`Merellon er elpe ioni` which translates to `Homeland of the big trees`
+
 Telperi
 -------
 
